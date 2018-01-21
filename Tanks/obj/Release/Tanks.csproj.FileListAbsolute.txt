@@ -1,0 +1,15 @@
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\bin\Release\Tanks.exe.config
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\bin\Release\Tanks.exe.manifest
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\bin\Release\Tanks.application
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\bin\Release\Tanks.exe
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\bin\Release\Tanks.pdb
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.MainForm_Controller.resources
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.Properties.Resources.resources
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.View.resources
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.csproj.GenerateResource.Cache
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.TrustInfo.xml
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.exe.manifest
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.application
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.exe
+C:\Users\Marinka)))\documents\visual studio 2015\Projects\Tanks\Tanks\obj\Release\Tanks.pdb
